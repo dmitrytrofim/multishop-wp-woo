@@ -1,0 +1,10 @@
+/node_modules/*
+/layout/*
+/wordpress/*
+!/wordpress/wp-content/
+/wordpress/wp-content/*
+!/wordpress/wp-content/themes/
+/wordpress/wp-content/themes/*
+!/wordpress/wp-content/themes/nametheme/
+/wordpress/wp-content/themes/nametheme/vendor/*
+package-lock.json
