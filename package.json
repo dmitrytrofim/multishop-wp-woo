@@ -1,0 +1,22 @@
+{
+ "name": "multishop-wp-woo",
+ "version": "1.0.0",
+ "description": "",
+ "main": "index.js",
+ "scripts": {
+  "start": "docker-compose start",
+  "stop": "docker-compose stop"
+ },
+ "repository": {
+  "type": "git",
+  "url": "git+https://github.com/dmitrytrofim/multishop-wp-woo.git"
+ },
+ "keywords": [],
+ "author": "",
+ "license": "ISC",
+ "type": "commonjs",
+ "bugs": {
+  "url": "https://github.com/dmitrytrofim/multishop-wp-woo/issues"
+ },
+ "homepage": "https://github.com/dmitrytrofim/multishop-wp-woo#readme"
+}

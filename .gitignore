@@ -5,6 +5,6 @@
 /wordpress/wp-content/*
 !/wordpress/wp-content/themes/
 /wordpress/wp-content/themes/*
-!/wordpress/wp-content/themes/nametheme/
-/wordpress/wp-content/themes/nametheme/vendor/*
+!/wordpress/wp-content/themes/dtmultishop/
+/wordpress/wp-content/themes/dtmultishop/vendor/*
 package-lock.json
